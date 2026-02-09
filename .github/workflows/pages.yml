@@ -26,11 +26,16 @@ jobs:
         with:
           enablement: true
 
-      - name: Build with Jekyll
-        uses: actions/jekyll-build-pages@v1
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
         with:
-          source: ./
-          destination: ./_site
+          node-version: '20'
+
+      - name: Build HTML from Markdown
+        run: |
+          npx markdown-to-html-cli --source README.md --output index.html
+          mkdir -p _site
+          mv index.html _site/
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
