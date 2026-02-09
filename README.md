@@ -65,7 +65,7 @@ References furnished on request.
 Cargomatic is a local freight logistics platform that connects shippers with a large network of professional
 drivers/fleets to move shipments (drayage, intermodal, LTL/FTL, and final-mile) across major U.S. markets.
 
-Worked in a large codebase, including a 12-year-old legacy Node.js backend and React/React Native frontends.
+Software development in a 12-year-old legacy Node.js backend and React/React Native frontends.
 
 - Modernized legacy Node/React/React Native codebase: CoffeeScript → JS/TS; Introduced TS & JSDoc types
 - Migrated runtime to Node 24 and upgraded Mongoose patterns from callback-style to async/await.
@@ -90,7 +90,7 @@ up to production.
   back-end work to bare minimum.
 - Apollo Gateway federating Hasura + vendor APIs into a unified graph and set as a platform with unified GraphQL view
   into 3rd party data including Epic API and Kaiser web services
-- Most entities are exposed as embeddable microapplications in Adobe AEM and Builder.IO CMS and as standalone web
+- Most of 40 entities are exposed as embeddable microapplications in Adobe AEM and Builder.IO CMS and as standalone web
   applications. UI was designed in Figma and the team created over 40 business components as microapplications using
   NextJS React stack.
 - Added the UI regression check with Chromatic GitHub integration
@@ -140,10 +140,11 @@ Web Components, React, CSS, HTML, SQL, GraphQL.
  Tech Lead | Rose International/ Kaiser Permanente | Pleasanton, CA | 02/2020 - 11/2021 
 -----------|---------------------------------------|----------------|-------------------
 
-Kaiser Permanente as client. Front-door and inner-door projects front-end development full SDLC: prototyping,
+Kaiser Permanente as client. Front-door and inner-door projects front-end serving 12 millions of customers.
+Development full SDLC: prototyping,
 integration with AEM build toolchain, unit test and coverage, pixel-perfect design implementation. Web components based
 UI from scratch and migration from Angular project. Active Member of UI chapter and UI Tokens board. OSGI java container
-micro-applications design and development.
+micro-applications design and development. 
 
  Liferay Expert | Randstad Technologies for Bank of the West | San Ramon, CA | 10/2018 - 02/2020 
 ----------------|--------------------------------------------|---------------|-------------------
@@ -162,9 +163,6 @@ All hands software developer. Implemented Find a Doctor and Front-page portal. I
 into a portal on heavy legacy multi-framework codebase: Grails, Spring, Bootstrap CSS, JQuery, MySQL, RESTful web
 services, JSP. Participated in design and creation of new products based on Mule API gateway, Angular2, Node.js, AMD,
 Adobe AEM, React Boilerplate. Mobile (iOS, Android) responsive UX & apps.
-
-| Software Developer | Simulation Works,  listed only bigger projects  | Lafayette CA | 06/2009 – 04/2015 
-|--------------------|-------------------------------------------------|--------------|-------------------
 
  Lead Developer | Simulation Works for Boy Scouts of America | Dallas TX | 04/2012 - 03/2014 
 ----------------|--------------------------------------------|-----------|-------------------
