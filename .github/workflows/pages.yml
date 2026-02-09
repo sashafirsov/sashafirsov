@@ -33,7 +33,7 @@ jobs:
 
       - name: Build HTML from Markdown
         run: |
-          npx markdown-to-html-cli --source README.md --output index.html
+          npx markdown-to-html-cli --source README.md --output index.html  --dark-mode=false
           mkdir -p _site
           mv index.html _site/
 
