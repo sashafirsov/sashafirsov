@@ -1,0 +1,15 @@
+title: Sasha Firsov
+description: Senior Full-Stack Engineer / Tech Lead / Architect
+theme: jekyll-theme-minimal
+
+# Use README.md as the index page
+readme_index:
+  enabled: true
+  remove_originals: false
+
+# Exclude unnecessary files
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
