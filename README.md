@@ -12,18 +12,6 @@ quality, and scale developer productivity. Deep in React/NextJS, Node/TypeScript
 and accessibility-first theming (dark/light/high-contrast). Active W3C Community Group contributor: XSLT 4.0, Web
 Components on Declarative Web Components topics (links below).
 
-## EDUCATION
-
-Master in CS, Computer Systems and Networks, National Technical University of Ukraine( Igor Sikorsky
-Kyiv Polytechnic Institute), 6 years
-
-## PATENTS
-
-US20140089446 ADVANCED CLOUD COMPUTING DEVICE FOR THE CONTROL OF MEDIA, TELEVISION AND COMMUNICATIONS
-SERVICES (link below)
-
-References furnished on request.
-
 ## CORE SKILLS
 
 Frontend / UI Engineering
@@ -53,6 +41,21 @@ Quality / Delivery
 
 - Testing: Playwright; automated test strategy; coverage-driven quality
 - Architecture, technical leadership, cross-functional delivery
+
+
+## EDUCATION
+
+Master in CS, Computer Systems and Networks, National Technical University of Ukraine( Igor Sikorsky
+Kyiv Polytechnic Institute), 6 years
+
+## PATENTS
+
+**US20140089446** ADVANCED CLOUD COMPUTING DEVICE FOR THE CONTROL OF MEDIA, TELEVISION AND COMMUNICATIONS
+SERVICES (link below)
+
+---
+
+References furnished on request.
 
 ## PROFESSIONAL EXPERIENCE
 
