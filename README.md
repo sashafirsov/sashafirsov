@@ -12,10 +12,14 @@ quality, and scale developer productivity. Deep in React/NextJS, Node/TypeScript
 and accessibility-first theming (dark/light/high-contrast). Active W3C Community Group contributor: XSLT 4.0, Web
 Components on Declarative Web Components topics (links below).
 
-**EDUCATION**:    Master in CS, Computer Systems and Networks, National Technical University of Ukraine( Igor Sikorsky
+## EDUCATION
+
+Master in CS, Computer Systems and Networks, National Technical University of Ukraine( Igor Sikorsky
 Kyiv Polytechnic Institute), 6 years
 
-**PATENTS**: US20140089446 ADVANCED CLOUD COMPUTING DEVICE FOR THE CONTROL OF MEDIA, TELEVISION AND COMMUNICATIONS
+## PATENTS
+
+US20140089446 ADVANCED CLOUD COMPUTING DEVICE FOR THE CONTROL OF MEDIA, TELEVISION AND COMMUNICATIONS
 SERVICES (link below)
 
 References furnished on request.
@@ -66,7 +70,7 @@ Worked in a large codebase, including a 12-year-old legacy Node.js backend and R
 - Strengthened reliability: production troubleshooting, logging/observability improvements, and test coverage for each
   fix/feature.
 - Used LLM-assisted development to accelerate migrations while maintaining test coverage.
-- Implemented Leg-based shipment order to streamline the ordering and billing process.
+- Implemented Leg-based shipment order to streamline the ordering and billing process with test coverage 90+%.
 
  Tech Lead | MSI/Deloitte for Kaiser Permanente | Pleasanton, CA | 03/2024 - 05/2025 
 -----------|------------------------------------|----------------|-------------------
@@ -156,8 +160,8 @@ into a portal on heavy legacy multi-framework codebase: Grails, Spring, Bootstra
 services, JSP. Participated in design and creation of new products based on Mule API gateway, Angular2, Node.js, AMD,
 Adobe AEM, React Boilerplate. Mobile (iOS, Android) responsive UX & apps.
 
- consulting, listed only bigger projects | Simulation Works | Lafayette CA | 06/2009 – 04/2015 
------------------------------------------|------------------|--------------|-------------------
+| Software Developer | Simulation Works,  listed only bigger projects  | Lafayette CA | 06/2009 – 04/2015 
+|--------------------|-------------------------------------------------|--------------|-------------------
 
  Lead Developer | Simulation Works for Boy Scouts of America | Dallas TX | 04/2012 - 03/2014 
 ----------------|--------------------------------------------|-----------|-------------------
@@ -168,8 +172,8 @@ WCF .NET, RESTful JSON to SQL mapping, versioning deployment tracking, etc. The 
 starting from MS SQL to UI. On each tier the design, performance tuning, test cases with 80+% coverage written to
 support the volume of millions users.
 
- 2 projects consulting | CISCO | San Jose, CA | 12/2009 - 03/2012 
------------------------|-------|--------------|-------------------
+| Sr Software Developer | CISCO 2 projects consulting | San Jose, CA | 12/2009 - 03/2012 
+|-----------------------|-----------------------------|--------------|-------------------
 
 **CiscoBlue** – Scientific Atlanta/CISCO.
 Set-top Box UI and Ant Galio browser performance tuning. Static HTML layout, JS dynamic DOM and CSS tuning. NSAPI plugin
@@ -180,8 +184,8 @@ reliability tuning. ANT Galio and MDA code review using profilers and Coverity c
 **Cisco Quad** collaboration suite (merged with WebEx). Dojo toolkit expert. In-browser performance tuning, packaging,
 cross-browser troubleshooting. Liferay java web portal. FedRAMP Cyber Security compliance review on each tier.
 
-| Ad Server | Radius Marketing, inc. | San Francisco CA | 06/2009 - 11/2009  |
-|-----------|------------------------|------------------|--------------------|
+| Developer | Radius Marketing, inc. Ad Server | San Francisco CA | 06/2009 - 11/2009  |
+|-----------|----------------------------------|------------------|--------------------|
 
 UI and middle tier of reporting management suite. Based on DHTMLX and JQuery interactive front-end, XSLT and PHP middle
 tier. Lazy POST-based tracking instead of img.
