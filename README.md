@@ -1,7 +1,7 @@
 # Sasha Firsov
 
- sfirsov@simulationworks.com | (925) 407-7596 | bay Area, CA | https://www.linkedin.com/in/sasha-firsov | 
------------------------------|----------------|--------------|------------------------------------------
+| sfirsov@simulationworks.com  | (925) 407-7596 | bay Area, CA | https://www.linkedin.com/in/sasha-firsov | 
+|------------------------------|----------------|--------------|------------------------------------------
 
 ## SUMMARY
 
